@@ -100,7 +100,10 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KimHyeonJu&theme=react&hide_border=%EC%A7%84%EC%8B%A4&locale=ko" alt="GitHub Streak" /></a>
-    
+
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
