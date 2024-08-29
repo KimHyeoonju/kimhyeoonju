@@ -7,13 +7,11 @@
   <a href="mailto:tttymttst@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tttymttst@gmail.com"/></a>
 </p>
 
-## <h3 align="center">🎤 A little more about me...</h3>
-
-<div style="display: flex; flex-direction: row-reverse; justify-content: space-between; align-items: flex-end;">
+<br>
+<h3 align="center">🎤 A little more about me...</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
-<br>
-<br>
 
+<br/>
 
 ```javascript
 const KimHyeonJu = {
@@ -23,17 +21,20 @@ const KimHyeonJu = {
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-</div>
+
+<br/>
 
 ## <h3 align="center">📝 Blogs 📝</h3>
+
+<br/><br/>
 
 - 포트폴리오: [https://zhenye-na.github.io/](https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf)
 - 스터디 : 
 - Web :
 
+<br/><br/>
 
 ## <h2 align="center">🔧 Technologies & Tools 🔧</h2>
-
 **Cloud Services:**
 
 
@@ -75,34 +76,20 @@ const KimHyeonJu = {
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-  <div align=center>
-    <a href="https://github.com/KimHyeoonju/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHyeoonju&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</a>
+<br/>
 
-    
-  </div>
-  <br>
-  
+## <h3 align="center">🐱 Github Stats 🐱</h3>
 
+<br/>
 
+<a href="https://github.com/KimHyeoonju/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHyeoonju&layout=compact&theme=react" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=KimHyeoonju&theme=react" alt="muskanrani" />
 
-## <h3 align="center">🗂️ Highlight Projects 🗂️</h3>
-----------
+<br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KimHyeoonju/postime" title="postime">
-    <img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=KimHyeoonju&repo=postime&theme=react&border_color=61dafb&border_radius=10" alt="postime">
-  </a>
-  <a align="right" href="https://github.com/KimHyeoonju/haesol" title="Haesol">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KimHyeoonju&repo=haesol&theme=react&border_color=61dafb&border_radius=10" alt="haesol">
-  </a>
-</div>
-
-
-</br></br></br></br></br></br></br>
-<h4 align="center">
+<h4>
   <a href="https://github.com/KimHyeoonju?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+</div>
 
