@@ -7,25 +7,23 @@
   <a href="mailto:tttymttst@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tttymttst@gmail.com"/></a>
 </p>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+## <h3 align="center">🎤 A little more about me...</h3>
+
+<div style="display: flex; flex-direction: row-reverse; justify-content: space-between; align-items: flex-end;">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+<br>
+<br>
 
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
+```javascript
+const KimHyeonJu = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Styled-Components, Docker],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
+</div>
 
 ## <h3 align="center">📝 Blogs 📝</h3>
 
