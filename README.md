@@ -3,28 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+Hyeonju's+GitHub" alt="Typing SVG" />
   </a>
 </h1>
+
+<h3 align="center">📝 Blogs</h3>
+
+</br>
+
 <p align="center">
   <a href="mailto:tttymttst@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tttymttst@gmail.com"/></a>
 </p>
-
-<br>
-<h3 align="center">🎤 A little more about me...</h3>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
-
-<br/>
-
-```javascript
-const KimHyeonJu = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Styled-Components, Docker],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<br/>
-
-<h2 align="center">📝 Blogs 📝</h2>
 
 <br/><br/>
 
