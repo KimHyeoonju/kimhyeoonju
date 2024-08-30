@@ -4,35 +4,36 @@
   </a>
 </h1>
 
-<h3 align="center">📝 Blogs</h3>
-
 </br>
-
+<!---
+// 프로필에 이메일 있으니까 빼자
 <p align="center">
   <a href="mailto:tttymttst@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tttymttst@gmail.com"/></a>
 </p>
+--->
 
-<br/><br/>
 
-- 포트폴리오: [https://zhenye-na.github.io/](https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf)
-- 스터디 : 
-- Web :
+  <h3 align="center"> ▼ 포트폴리오 사이트 바로가기 ▼ </h3>
+  <a  align="center" href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" >
+    <img src="https://github.com/user-attachments/assets/c281d1b1-ec98-4c34-995a-16aeb418e05c"/>
+  </a>
 
-<a href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf">
-  <img src="https://github.com/user-attachments/assets/97c8e4a2-2a76-49f3-93e8-cec4f1f31a8a"
-    style="width: 50%;
-    height: 130px;
-    object-fit: cover;"
-    />
-</a>{: target="_blank"}
+  </br>
+  </br>
 
-<a href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" target="_blank">
-  <img src="https://github.com/user-attachments/assets/97c8e4a2-2a76-49f3-93e8-cec4f1f31a8a"
-    style="width: 50%; height: 130px; object-fit: cover;"
-    alt="노션"
-  />
-</a>
+  <h3 align="center"> ▼ 포트폴리오 노션 바로가기 ▼ </h3>
+  <a  align="center" href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" >
+    <img src="https://github.com/user-attachments/assets/c281d1b1-ec98-4c34-995a-16aeb418e05c"/>
+  </a>
 
+  </br>
+  </br>
+
+  <h3 align="center"> ▼ 스터디 노션 바로가기 ▼ </h3>
+  <a  align="center" href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" >
+    <img src="https://github.com/user-attachments/assets/6cee2d3a-ddb3-4898-aaa5-fb4bcb947f41"/>
+  </a>
+  
 <br/><br/>
 
 <h2 align="center">🔧 Technologies & Tools 🔧</h2>
