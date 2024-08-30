@@ -26,6 +26,13 @@
     />
 </a>{: target="_blank"}
 
+<a href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" target="_blank">
+  <img src="https://github.com/user-attachments/assets/97c8e4a2-2a76-49f3-93e8-cec4f1f31a8a"
+    style="width: 50%; height: 130px; object-fit: cover;"
+    alt="노션"
+  />
+</a>
+
 <br/><br/>
 
 <h2 align="center">🔧 Technologies & Tools 🔧</h2>
