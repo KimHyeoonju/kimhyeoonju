@@ -10,14 +10,14 @@
 <p align="center">
   <a href="mailto:tttymttst@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tttymttst@gmail.com"/></a>
 </p>
---->
+
 
 
   <h3 align="center"> ▼ 포트폴리오 사이트 바로가기 ▼ </h3>
   <a  align="center" href="https://www.notion.so/2ced18faf8e943ad9800b60f4e46b5cf" >
     <img src="https://github.com/user-attachments/assets/c281d1b1-ec98-4c34-995a-16aeb418e05c"/>
   </a>
-
+--->
   </br>
   </br>
 
